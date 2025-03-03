@@ -22,10 +22,10 @@ We'd like to thank the following individuals for their contributions:
         </a>
     </td>
  <td align="center">
-        <a href="https://github.com/[ID]">
-            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+        <a href="https://github.com/GThejaswini17">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[Thejaswini]"/>
             <br />
-            <sub><b>[NAME]</b></sub>
+            <sub><b>Thejaswini</b></sub>
         </a>
     </td>
     </td>
